@@ -110,7 +110,7 @@ Após os envios:
 - Cruzamento com os logs
 - Verificação se os números contatados efetivamente geraram pedidos
 
-Essa etapa foi essencial para **validar a efetividade da automação**.
+Essa etapa foi essencial para validar a efetividade da automação.
 
 ---
 
