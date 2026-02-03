@@ -125,12 +125,19 @@ Essa etapa foi essencial para **validar a efetividade da automação**.
 ## 📁 Estrutura Sugerida do Repositório
 ```
 📦 whatsapp-automation
+
  ┣ 📂 images
+ 
  ┃ ┣ terminal_interface.jpeg
+ 
  ┃ ┣ planilha_carregada.jpeg
+ 
  ┃ ┗ log_envio.jpeg
+ 
  ┣ send.py
+ 
  ┣ log_envio.txt
+ 
  ┣ README.md
 ```
 
