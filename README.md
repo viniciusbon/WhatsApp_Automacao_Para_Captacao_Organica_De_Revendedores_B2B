@@ -1,4 +1,4 @@
-# Automação de Envio de Mensagens via WhatsApp para Captação de Revendedores
+# Automação de Envio de Mensagens Personalizadas via WhatsApp para Captação de Revendedores
 
 ## 📌 Visão Geral
 Este projeto foi desenvolvido para **automatizar o envio de mensagens personalizadas via WhatsApp Web**, com foco na **captação de revendedores**. A solução foi pensada para ambientes corporativos **com fortes restrições técnicas**, onde **não é possível instalar Python, editores de código ou dependências no sistema**.
