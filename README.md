@@ -66,7 +66,7 @@ O sistema foi desenvolvido com uma **interface interativa no terminal**, permiti
 - Definição de horário de envio
 
 ### Exemplo da Interface:
-![Interface CLI](images/terminal_interface.jpeg)
+![Interface CLI](009.jpeg)
 
 ---
 
@@ -75,7 +75,6 @@ O sistema foi desenvolvido com uma **interface interativa no terminal**, permiti
 - Leitura com **Pandas**
 - Mensagens **personalizadas por contato**
 
-![Planilha Carregada](images/planilha_carregada.jpeg)
 
 ---
 
@@ -103,11 +102,7 @@ Cada envio gera um registro no arquivo `log_envio.txt`, contendo:
 ```
 [28/01/2026 16:41:17] ENVIADO: Vinicius (1195*******)
 [28/01/2026 16:41:32] ENVIADO: Joao (1198******)
-```
 
-![Log de Envio](images/log_envio.jpeg)
-
----
 
 ## 🔄 Validação com Dados de Negócio
 Após os envios:
