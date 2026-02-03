@@ -139,15 +139,11 @@ Essa etapa foi essencial para **validar a efetividade da automação**.
  ┣ log_envio.txt
  
  ┣ README.md
-```
 
----
 
 ## 👤 Autor
 **Vinicius Mantovam**  
 #Data Scientist #Automação #Análise de Dados #BI #Negócios
-
----
 
 ⭐ Se este projeto foi útil, sinta-se à vontade para deixar uma estrela no repositório!
 
