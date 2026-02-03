@@ -122,8 +122,9 @@ Essa etapa foi essencial para validar a efetividade da automação.
 
 ---
 
-## 📁 Estrutura Sugerida do Repositório
 ```
+## 📁 Estrutura Sugerida do Repositório
+
 📦 whatsapp-automation
 
  ┣ 📂 images
